@@ -1,0 +1,1 @@
+8c0e13a8f6792aa1a5f0b2c97fdff5f4fce56d4813d5e7a394f0a11a7a2be73f  xworks_contract.wasm
